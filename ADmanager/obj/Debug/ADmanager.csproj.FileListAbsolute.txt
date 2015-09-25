@@ -1,0 +1,8 @@
+c:\users\vb\documents\visual studio 2013\Projects\ADmanager\ADmanager\bin\Debug\ADmanager.exe
+c:\users\vb\documents\visual studio 2013\Projects\ADmanager\ADmanager\bin\Debug\ADmanager.pdb
+c:\users\vb\documents\visual studio 2013\Projects\ADmanager\ADmanager\obj\Debug\ADmanager.csprojResolveAssemblyReference.cache
+c:\users\vb\documents\visual studio 2013\Projects\ADmanager\ADmanager\obj\Debug\ADmanager.Properties.Resources.resources
+c:\users\vb\documents\visual studio 2013\Projects\ADmanager\ADmanager\obj\Debug\ADmanager.csproj.GenerateResource.Cache
+c:\users\vb\documents\visual studio 2013\Projects\ADmanager\ADmanager\obj\Debug\ADmanager.exe
+c:\users\vb\documents\visual studio 2013\Projects\ADmanager\ADmanager\obj\Debug\ADmanager.pdb
+c:\users\vb\documents\visual studio 2013\Projects\ADmanager\ADmanager\obj\Debug\ADmanager.Form1.resources
